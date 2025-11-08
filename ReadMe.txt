@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=noetovar5.WindowsEventLogReporter"/>
 Windows Event Log Reporter
 
 This application allows you to quickly view and export Windows Event Logs into a readable HTML report.
