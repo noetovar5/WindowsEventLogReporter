@@ -16,4 +16,4 @@ is organized and color-coded by severity, making it easy to identify important e
 includes your application credit and a direct link to your website.
 
 Designed by Noe Tovar-MBA
-www.noetovar.com
+https://noetovar.com/
